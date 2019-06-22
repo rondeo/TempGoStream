@@ -1,0 +1,50 @@
+{
+    "name": "GoStream",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node node_modules/react-native/local-cli/cli.js start",
+        "test": "jest"
+    },
+    "dependencies": {
+        "@react-native-community/async-storage": "^1.4.0",
+        "i": "^0.3.6",
+        "i18n-js": "^3.2.1",
+        "install": "^0.12.2",
+        "md5": "^2.2.1",
+        "native-base": "^2.12.1",
+        "npm": "^6.9.0",
+        "react": "16.6.3",
+        "react-native": "0.58.1",
+        "react-native-device-info": "^1.4.1",
+        "react-native-fbsdk": "^0.8.0",
+        "react-native-firebase": "^5.3.1",
+        "react-native-gesture-handler": "^1.1.0",
+        "react-native-iap": "^2.5.5",
+        "react-native-image-picker": "^0.28.1",
+        "react-native-iphone-x-helper": "^1.2.0",
+        "react-native-linear-gradient": "^2.5.4",
+        "react-native-modal-datetime-picker": "^6.1.0",
+        "react-native-shimmer-placeholder": "^1.0.30",
+        "react-native-simple-table": "0.0.3",
+        "react-native-swipe-gestures": "^1.0.3",
+        "react-navigation": "^3.8.1",
+        "vue-i18n": "^8.10.0",
+        "vue-native-core": "0.0.8",
+        "vue-native-helper": "0.0.10",
+        "vue-native-router": "0.0.1-alpha.3",
+        "vue-uuid": "^1.1.1",
+        "vuex": "^3.1.0"
+    },
+    "devDependencies": {
+        "babel-core": "7.0.0-bridge.0",
+        "babel-jest": "24.5.0",
+        "jest": "24.5.0",
+        "metro-react-native-babel-preset": "0.53.1",
+        "react-test-renderer": "16.6.3",
+        "vue-native-scripts": "0.0.14"
+    },
+    "jest": {
+        "preset": "react-native"
+    }
+}

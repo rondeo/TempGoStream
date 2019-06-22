@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>818399337045-1ihhjq622j0tjf9plo7v86c09dtkej0i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.818399337045-1ihhjq622j0tjf9plo7v86c09dtkej0i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCByg0GmAJjegIauKH-Rb8UdvmmUQPC9XY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>818399337045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gostream.gostream.v2</string>
+	<key>PROJECT_ID</key>
+	<string>gostream-838c9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gostream-838c9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:818399337045:ios:2c2d73be737dad8d</string>
+	<key>DATABASE_URL</key>
+	<string>https://gostream-838c9.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoStream</string>
+<<<<<<< HEAD
+=======
+    <string name="facebook_app_id">1687092974925132</string>
+    <string name="fb_login_protocol_scheme">fb1687092974925132</string>
+>>>>>>> 474625a97973050398fdd7b97df809d7f8cb277d
+</resources>

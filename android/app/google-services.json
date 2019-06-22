@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "818399337045",
+    "firebase_url": "https://gostream-838c9.firebaseio.com",
+    "project_id": "gostream-838c9",
+    "storage_bucket": "gostream-838c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818399337045:android:d5d912fa4c91a1e1",
+        "android_client_info": {
+          "package_name": "android.app.gostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818399337045-gnlophuueo09p9l5n48f1ld69k4msre6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0FouNYtICU48tNZypUan6N-OHd6tvqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818399337045:android:2c2d73be737dad8d",
+        "android_client_info": {
+          "package_name": "com.gostream.gostream.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818399337045-gnlophuueo09p9l5n48f1ld69k4msre6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0FouNYtICU48tNZypUan6N-OHd6tvqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818399337045:android:8f7445bf903c2bae",
+        "android_client_info": {
+          "package_name": "godream.app.gostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818399337045-gnlophuueo09p9l5n48f1ld69k4msre6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0FouNYtICU48tNZypUan6N-OHd6tvqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8849706681657779~9763999830"
+    }
+  ],
+  "configuration_version": "1"
+}
